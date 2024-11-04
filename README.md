@@ -4,3 +4,6 @@ This project leverages a ResNet-based deep learning model using Python, TensorFl
 
 Train & validation Accuracy graph for model RESNET 34
 ![](https://github.com/khushi-patel27/Plant_Disease_Classification/blob/main/Screenshot%20(29).png)
+
+Train & validation Accuracy graph for model RESNET 50
+![](https://github.com/khushi-patel27/Plant_Disease_Classification/blob/main/Screenshot%20(30).png)
