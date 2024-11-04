@@ -1,4 +1,6 @@
-This project leverages a ResNet-based deep learning model using Python, TensorFlow, and Keras to classify plant diseases from leaf images, aiding in early detection for better crop management. Built with Jupyter Notebook for interactive development, it employs NumPy and Pandas for data handling and Matplotlib for visualization. Using a labeled dataset of plant leaves, the model achieves multi-class classification with high accuracy, supporting farmers in identifying and addressing plant diseases effectively.
+In this project, we used a ResNet-based deep learning model using Python, TensorFlow, and Keras to classify plant diseases from leaf images, aiding in early detection for better crop management. Built with Jupyter Notebook for interactive development, it employs NumPy and Pandas for data handling and Matplotlib for visualization. Using a labeled dataset of plant leaves, the model achieves multi-class classification with high accuracy, supporting farmers in identifying and addressing plant diseases effectively.
+We used most used RESNET family models to implement plant disease classification 
+here are some snapshots of the project:
 
 ![](https://github.com/khushi-patel27/Plant_Disease_Classification/blob/main/Screenshot%20(28).png)
 
