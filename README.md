@@ -19,3 +19,6 @@ Train & validation Accuracy graph for model RESNET 152
 
 Train Accuracy for all model
 ![](https://github.com/khushi-patel27/Plant_Disease_Classification/blob/main/Screenshot%20(34).png)
+
+Validation Accuracy for all model
+![](https://github.com/khushi-patel27/Plant_Disease_Classification/blob/main/Screenshot%20(35).png)
